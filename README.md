@@ -1,11 +1,11 @@
-About r-shinyloadtest
-=====================
+About r-shinyloadtest-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-shinyloadtest-feedstock/blob/main/LICENSE.txt)
 
 Home: https://rstudio.github.io/shinyloadtest/, https://github.com/rstudio/shinyloadtest
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-shinyloadtest-feedstock/blob/main/LICENSE.txt)
 
 Summary: Assesses the number of concurrent users 'shiny' applications are capable of supporting, and for directing application changes in order to support a higher number of users. Provides facilities for recording 'shiny' application sessions, playing recorded sessions against a target server at load, and analyzing the resulting metrics.
 
